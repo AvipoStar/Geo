@@ -2,7 +2,13 @@
     <string name="app_name">Geo</string>
     <string name="true_button">Да</string>
     <string name="false_button">Нет</string>
-    <string name="question_text">Канберра - столица Австралии.</string>>
+    <string name="next_button">Следующий вопрос</string>
     <string name="correct_toast">Верно!</string>
     <string name="incorrect_toast">Неверно!</string>
+    <string name="question_australia">Канберра - столица Австралии.</string>
+    <string name="question_oceans">Тихий океан больше чем Атлантический.</string>
+    <string name="question_mideast">Суэцкий канал соединяет Красное море и Индийский океан.</string>
+    <string name="question_africa">Река Нил начинается в Египте</string>
+    <string name="question_americas">Амазонка самая длинная река Америки</string>
+    <string name="question_asia">Байкал самое большое и глубокое пресноводное озеро в мире.</string>
 </resources>
