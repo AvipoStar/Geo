@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Geo</string>
+    <string name="true_button">Да</string>
+    <string name="false_button">Нет</string>
+    <string name="question_text">Канберра - столица Австралии.</string>>
+    <string name="correct_toast">Верно!</string>
+    <string name="incorrect_toast">Неверно!</string>
+</resources>
