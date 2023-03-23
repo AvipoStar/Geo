@@ -11,4 +11,8 @@
     <string name="question_africa">Река Нил начинается в Египте</string>
     <string name="question_americas">Амазонка самая длинная река Америки</string>
     <string name="question_asia">Байкал самое большое и глубокое пресноводное озеро в мире.</string>
+    <string name="warning_text">Вы уверенны, что хотите сделать это?</string>
+    <string name="show_answer_button">Показать ответ</string>
+    <string name="cheat_button">Узнать!</string>
+    <string name="judgment_toast">Подглядывать не хорошо.</string>
 </resources>
